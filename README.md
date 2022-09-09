@@ -12,6 +12,8 @@
 
 ["Основы статистики" на базе программы Института биоинформатики](https://github.com/timofeevamila/timofeevamila/blob/main/Основы%20статистики.pdf)
 
+["Интерактивный тренажёр по SQL"](https://github.com/timofeevamila/timofeevamila/blob/main/Основы%20статистики.pdf)
+
 ### 📱 Контакты для связи со мной:
 * Telegram: https://t.me/timomila
 * Email: timofeeva.lm@mail.ru
